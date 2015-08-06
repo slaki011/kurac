@@ -1,2 +1,2 @@
-# kurac
-kita
+# ShakaBlox
+ShakaBlox mosaic generating website.
